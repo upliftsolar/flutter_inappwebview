@@ -79,6 +79,7 @@ flutter:
     - test_assets/favicon.ico
     - test_assets/sample_audio.ogg
     - test_assets/sample_video.mp4
+    - assets/localhostwebview/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
